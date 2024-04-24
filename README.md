@@ -45,6 +45,11 @@ This is a list of companies known to use Rust in their production systems, based
 - **Apple**:
    * [WebArchived Job Ad - migrating codebase from C to Rust](https://web.archive.org/web/20200913113011/https://jobs.apple.com/de-de/details/200170723/software-engineer-networking-privacy?team=SFTWR)
 
+- **Vercel**:
+    * [Introducing Turbopack: Rust-based successor to Webpack](https://vercel.com/blog/turbopack)
+    * [Why Turborepo is migrating from Go to Rust](https://vercel.com/blog/turborepo-migration-go-rust)
+    * [RustNation - Porting Turborepo From Go To Rust](https://www.youtube.com/watch?v=RILymfTIcoo)
+
 
 ## Social Media
 
@@ -62,6 +67,9 @@ This is a list of companies known to use Rust in their production systems, based
 
 - **Toyota(Unofficial)**:
     * [Reddit comment - Work at Toyota Connected.](https://www.reddit.com/r/rust/comments/ts605e/comment/i2rsprn/)
+
+- **Renault**
+    * [RustNation - Renault want to sell cars with rust!](https://www.youtube.com/watch?v=Z1xMvm3eS4k)
 
 ## Financial
 
