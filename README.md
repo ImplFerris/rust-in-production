@@ -41,6 +41,9 @@ This is a list of companies known to use Rust in their production systems, based
 
 - **Brave Software**:
    * [Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
+     
+- **Apple**:
+   * [WebArchived Job Ad - migrating codebase from C to Rust](https://web.archive.org/web/20200913113011/https://jobs.apple.com/de-de/details/200170723/software-engineer-networking-privacy?team=SFTWR)
 
 
 ## Social Media
