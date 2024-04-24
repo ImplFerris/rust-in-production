@@ -6,14 +6,23 @@ This is a list of companies known to use Rust in their production systems, based
 
 - **Mozilla**: 
     * [Thunderbird and Rust](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
-
-- **Microsoft**:
-    * [Rust in Windows Kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
-    * [M365 Job Ad(old) for Rust dev](https://jobs.careers.microsoft.com/global/en/job/1633482/Principal-Software-Architect)
-    
+ 
 - **Cloudflare**:
     * [Pingora - open source](https://github.com/cloudflare/pingora)
     * [Oxy - Cloudflare's Proxy Framework](https://blog.cloudflare.com/introducing-oxy)
+      
+- **Google**:
+    * [5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
+    * [Supporting the Use of Rust in the Chromium Project](https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html)
+    * [Rust in Android](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
+      
+- **Microsoft**:
+    * [Rust in Windows Kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
+    * [M365 Job Ad(old) for Rust dev](https://jobs.careers.microsoft.com/global/en/job/1633482/Principal-Software-Architect)
+      
+- **Github**:
+    * [The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
+    * [RustConf 2023 - Integrating Rust and Go: Lessons from Github Code Search](https://www.youtube.com/watch?v=KYdlqhb267c)
 
 - **Meta**:
     * [History of Rust at Facebook](https://engineering.fb.com/2021/04/29/developer-tools/rust/)
@@ -32,6 +41,9 @@ This is a list of companies known to use Rust in their production systems, based
 - **Tor Project**:
     * [Rust Tor implementation](https://blog.torproject.org/arti_100_released/)
 
+- **Brave Software**:
+   * [Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
+
 
 ## Automotive and Transportation
 
@@ -40,6 +52,11 @@ This is a list of companies known to use Rust in their production systems, based
 
 - **Toyota(Unofficial)**:
     * [Reddit comment - Work at Toyota Connected.](https://www.reddit.com/r/rust/comments/ts605e/comment/i2rsprn/)
+
+## Financial
+
+- **Hyperswitch**
+    * [An open source payments switch written in Rust](https://github.com/juspay/hyperswitch)
 
 ## Others
 
