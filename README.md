@@ -142,6 +142,8 @@ This is a list of companies known to use Rust in their production systems, based
 
 - **Honeywell(Unofficial)**:
     * [Rust Benefits - SnapStack’s Partnership With Honeywell](https://snapstack.cz/rust-the-programming-language-of-the-future/#snapstacks-partnership-with-honeywellnbsp)
-
       
+- **FOSSA**
+    * [Interview with Jessica Black, a senior software engineer at FOSSA](https://serokell.io/blog/rust-in-production-fossa)
+
 Please note that this list is not exhaustive and may not include all companies using Rust publicly.
