@@ -61,7 +61,10 @@ This is a list of companies known to use Rust in their production systems, based
   * [LaserCAN Firmware](https://github.com/GrappleRobotics/LaserCAN)
 
 - **Figma**:
-    * [Rust in production at Figma]([https://github.com/pop-os/pop](https://www.figma.com/blog/rust-in-production-at-figma/))
+    * [Rust in production at Figma](https://www.figma.com/blog/rust-in-production-at-figma/)
+
+- **Fiberplane**:
+    * [Why we use Rust at Fiberplane](https://fiberplane.com/blog/why-we-use-rust-at-fiberplane)
 
 ## Social Media
 
@@ -108,10 +111,14 @@ This is a list of companies known to use Rust in their production systems, based
 - **Coursera**
     * [Rust & Docker in production](https://medium.com/coursera-engineering/rust-docker-in-production-coursera-f7841d88e6ed)
 
-## Others
-
+## Embedded
+- **STABL Energy**
+    * [Embedded Rust in Production ..?](https://blog.lohr.dev/embedded-rust)
 - **Samsung SmartThings**
     * [We are making use of Rust for the backbone of our new update client and server](https://community.smartthings.com/t/hub-firmware-release-notes-17-12-17-13-17-14/83722/376)
+
+
+## Others
       
 - **Beijing University of Posts and Telecommunications**
     * [China's Satellite Equipped with RROS](https://bupt-os.github.io/website/news/2023_12_9/satellite_launch/)
