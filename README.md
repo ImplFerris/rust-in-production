@@ -74,14 +74,17 @@ This is a list of companies known to use Rust in their production systems, based
 
 ## Automotive and Transportation
 
+- **Renault**
+    * [RustNation - Renault want to sell cars with rust!](https://www.youtube.com/watch?v=Z1xMvm3eS4k)
+
+- **Volvo**
+    * [Why Rust is actually good for your car.](https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09#a650)
+
 - **Volkswagen(Unofficial)**: 
     * [Rust Benefits - SnapStack’s Collaboration With Volkswagen (VW) Group](https://snapstack.cz/rust-the-programming-language-of-the-future/#snapstacks-collaboration-with-volkswagen-vw-group)
 
 - **Toyota(Unofficial)**:
     * [Reddit comment - Work at Toyota Connected.](https://www.reddit.com/r/rust/comments/ts605e/comment/i2rsprn/)
-
-- **Renault**
-    * [RustNation - Renault want to sell cars with rust!](https://www.youtube.com/watch?v=Z1xMvm3eS4k)
 
 ## Financial
 
