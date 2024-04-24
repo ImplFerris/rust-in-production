@@ -65,6 +65,9 @@ This is a list of companies known to use Rust in their production systems, based
 - **Hyperswitch**
     * [An open source payments switch written in Rust](https://github.com/juspay/hyperswitch)
 
+## Entertainment
+- **Netflix**
+    * [bpftop - command-line tool created by netflix](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5)
 
 ## Others
 
