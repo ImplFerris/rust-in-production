@@ -19,13 +19,11 @@ This is a list of companies known to use Rust in their production systems, based
 - **Microsoft**:
     * [Rust in Windows Kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
     * [M365 Job Ad(old) for Rust dev](https://jobs.careers.microsoft.com/global/en/job/1633482/Principal-Software-Architect)
+    * [(Indirect usage)VScode Search uses ripgrep](https://code.visualstudio.com/updates/v1_11#_text-search-improvements)
       
 - **Github**:
     * [The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
     * [RustConf 2023 - Integrating Rust and Go: Lessons from Github Code Search](https://www.youtube.com/watch?v=KYdlqhb267c)
-
-- **Meta**:
-    * [History of Rust at Facebook](https://engineering.fb.com/2021/04/29/developer-tools/rust/)
 
 - **Amazon**:
     * [Why AWS loves Rust](https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help/)
@@ -45,6 +43,15 @@ This is a list of companies known to use Rust in their production systems, based
    * [Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
 
 
+## Social Media
+
+- **Twitter**
+    * [Systems performance telemetry](https://github.com/twitter/rezolus)
+      
+- **Meta**:
+    * [History of Rust at Facebook](https://engineering.fb.com/2021/04/29/developer-tools/rust/)
+
+
 ## Automotive and Transportation
 
 - **Volkswagen(Unofficial)**: 
@@ -57,6 +64,7 @@ This is a list of companies known to use Rust in their production systems, based
 
 - **Hyperswitch**
     * [An open source payments switch written in Rust](https://github.com/juspay/hyperswitch)
+
 
 ## Others
 
