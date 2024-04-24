@@ -6,6 +6,7 @@ This is a list of companies known to use Rust in their production systems, based
 
 - **Mozilla**: 
     * [Thunderbird and Rust](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
+    * [Porting a cross-platform GUI application to Rust](https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/)
  
 - **Cloudflare**:
     * [Pingora - open source](https://github.com/cloudflare/pingora)
@@ -21,9 +22,10 @@ This is a list of companies known to use Rust in their production systems, based
     * [M365 Job Ad(old) for Rust dev](https://jobs.careers.microsoft.com/global/en/job/1633482/Principal-Software-Architect)
     * [(Indirect usage)VScode Search uses ripgrep](https://code.visualstudio.com/updates/v1_11#_text-search-improvements)
       
-- **Github**:
+- **Github(Subsidiary of Microsoft)**:
     * [The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
     * [RustConf 2023 - Integrating Rust and Go: Lessons from Github Code Search](https://www.youtube.com/watch?v=KYdlqhb267c)
+    * [NPM Adopted Rust to Remove Performance Bottlenecks](https://www.infoq.com/news/2019/03/rust-npm-performance/)
 
 - **Amazon**:
     * [Why AWS loves Rust](https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help/)
@@ -49,11 +51,17 @@ This is a list of companies known to use Rust in their production systems, based
     * [Introducing Turbopack: Rust-based successor to Webpack](https://vercel.com/blog/turbopack)
     * [Why Turborepo is migrating from Go to Rust](https://vercel.com/blog/turborepo-migration-go-rust)
     * [RustNation - Porting Turborepo From Go To Rust](https://www.youtube.com/watch?v=RILymfTIcoo)
+ 
+- **System76**:
+    * [Pop!_OS](https://github.com/pop-os/pop)
 
 - **Grapple Robotics**
   * [Grapple Hook Grapple's firmware configuration tool](https://github.com/GrappleRobotics/GrappleHook)
   * [Bundle Grapple's firmware bundling tool](https://github.com/GrappleRobotics/bundle)
   * [LaserCAN Firmware](https://github.com/GrappleRobotics/LaserCAN)
+
+- **Figma**:
+    * [Rust in production at Figma]([https://github.com/pop-os/pop](https://www.figma.com/blog/rust-in-production-at-figma/))
 
 ## Social Media
 
@@ -84,6 +92,14 @@ This is a list of companies known to use Rust in their production systems, based
 - **Netflix**
     * [bpftop - command-line tool created by netflix](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5)
 
+## Network and Security
+
+- **Kentik**
+    * [How Rust Helps Keep Kentik’s Performance on High](https://www.kentik.com/blog/under-the-hood-how-rust-helps-keep-kentik's-performance-on-high/)
+
+- **ThreatX**
+    * [Rust Rocks! Why ThreatX Chose Rust](https://www.threatx.com/resource/rust-rocks-why-threatx-chose-rust/)
+
 ## Others
 
 - **Honeywell(Unofficial)**:
@@ -98,4 +114,27 @@ This is a list of companies known to use Rust in their production systems, based
 - **Wolfram Research, Inc**
     * [CodeParser](https://github.com/WolframResearch/codeparser)
 
+- **Svix**
+    * [Enterprise-ready webhooks service](https://github.com/svix/svix-webhooks/)
+ 
+- **Mullvad**
+    * [Daemon is implemented in Rust](https://github.com/mullvad/mullvadvpn-app)
+
+- **YesLogic**
+    * [Font parsing and shaping engine](https://yeslogic.com/blog/allsorts-rust-font-shaping-engine/)
+
+- **Meilisearch**
+    * [Lightning-fast search API](https://github.com/meilisearch/MeiliSearch)
+
+- **OneSignal**
+    * [Rust at OneSignal](https://onesignal.com/blog/rust-at-onesignal/)
+
+- **CancerIQ**
+    * [Rust & Docker in production](https://medium.com/coursera-engineering/rust-docker-in-production-coursera-f7841d88e6ed)
+
+- **Coursera**
+    * [Cancer Risk Prediction in Rust](http://engineering.canceriq.com/posts/rust/)
+
+
+      
 Please note that this list is not exhaustive and may not include all companies using Rust publicly.
