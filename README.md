@@ -79,6 +79,8 @@ This is a list of companies known to use Rust in their production systems, based
 
 - **1Password**: 
     * [Typeshare](https://github.com/1Password/typeshare)
-
+      
+- **Wolfram Research, Inc**
+    * [CodeParser](https://github.com/WolframResearch/codeparser)
 
 Please note that this list is not exhaustive and may not include all companies using Rust publicly.
