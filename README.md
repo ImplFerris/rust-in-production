@@ -40,7 +40,7 @@ This is a list of companies known to use Rust in their production systems, based
     * [Rust Tor implementation](https://blog.torproject.org/arti_100_released/)
 
 - **Brave Software**:
-   * [Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
+   * [Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust) 
      
 - **Apple**:
    * [WebArchived Job Ad - migrating codebase from C to Rust](https://web.archive.org/web/20200913113011/https://jobs.apple.com/de-de/details/200170723/software-engineer-networking-privacy?team=SFTWR)
@@ -50,6 +50,10 @@ This is a list of companies known to use Rust in their production systems, based
     * [Why Turborepo is migrating from Go to Rust](https://vercel.com/blog/turborepo-migration-go-rust)
     * [RustNation - Porting Turborepo From Go To Rust](https://www.youtube.com/watch?v=RILymfTIcoo)
 
+- **Grapple Robotics**
+  * [Grapple Hook Grapple's firmware configuration tool](https://github.com/GrappleRobotics/GrappleHook)
+  * [Bundle Grapple's firmware bundling tool](https://github.com/GrappleRobotics/bundle)
+  * [LaserCAN Firmware](https://github.com/GrappleRobotics/LaserCAN)
 
 ## Social Media
 
