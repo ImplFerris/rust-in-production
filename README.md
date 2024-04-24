@@ -100,11 +100,16 @@ This is a list of companies known to use Rust in their production systems, based
 - **ThreatX**
     * [Rust Rocks! Why ThreatX Chose Rust](https://www.threatx.com/resource/rust-rocks-why-threatx-chose-rust/)
 
+## Education
+
+- **Coursera**
+    * [Rust & Docker in production](https://medium.com/coursera-engineering/rust-docker-in-production-coursera-f7841d88e6ed)
+
 ## Others
 
-- **Honeywell(Unofficial)**:
-    * [Rust Benefits - SnapStack’s Partnership With Honeywell](https://snapstack.cz/rust-the-programming-language-of-the-future/#snapstacks-partnership-with-honeywellnbsp)
-
+- **Samsung SmartThings**
+    * [We are making use of Rust for the backbone of our new update client and server](https://community.smartthings.com/t/hub-firmware-release-notes-17-12-17-13-17-14/83722/376)
+      
 - **Beijing University of Posts and Telecommunications**
     * [China's Satellite Equipped with RROS](https://bupt-os.github.io/website/news/2023_12_9/satellite_launch/)
 
@@ -129,16 +134,14 @@ This is a list of companies known to use Rust in their production systems, based
 - **OneSignal**
     * [Rust at OneSignal](https://onesignal.com/blog/rust-at-onesignal/)
 
-- **Coursera**
-    * [Rust & Docker in production](https://medium.com/coursera-engineering/rust-docker-in-production-coursera-f7841d88e6ed)
-
 - **CancerIQ**
     * [Cancer Risk Prediction in Rust](http://engineering.canceriq.com/posts/rust/)
 
 - **Bakken & Bæck**
     * [Success with Rust in Production](https://tech.bakkenbaeck.com/post/success-with-rust-in-production)
 
-
+- **Honeywell(Unofficial)**:
+    * [Rust Benefits - SnapStack’s Partnership With Honeywell](https://snapstack.cz/rust-the-programming-language-of-the-future/#snapstacks-partnership-with-honeywellnbsp)
 
       
 Please note that this list is not exhaustive and may not include all companies using Rust publicly.
