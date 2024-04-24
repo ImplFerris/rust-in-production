@@ -1,4 +1,4 @@
-# Rust in Production
+# Rust in Production - List of companies use Rust
 This is a list of companies known to use Rust in their production systems, based on public information. Note that many companies may use Rust without publicizing it, so this list provides a fair idea of Rust's adoption in various industries.
 
 
