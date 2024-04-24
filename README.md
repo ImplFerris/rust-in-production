@@ -41,7 +41,11 @@ This is a list of companies known to use Rust in their production systems, based
 
 - **Brave Software**:
    * [Brave's Rust-based adblock engine](https://github.com/brave/adblock-rust)
-
+ 
+- **Grapple Robotics**
+  * [Grapple Hook Grapple's firmware configuration tool](https://github.com/GrappleRobotics/GrappleHook)
+  * [Bundle Grapple's firmware bundling tool](https://github.com/GrappleRobotics/bundle)
+  * [LaserCAN Firmware](https://github.com/GrappleRobotics/LaserCAN)
 
 ## Social Media
 
