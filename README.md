@@ -129,11 +129,15 @@ This is a list of companies known to use Rust in their production systems, based
 - **OneSignal**
     * [Rust at OneSignal](https://onesignal.com/blog/rust-at-onesignal/)
 
-- **CancerIQ**
+- **Coursera**
     * [Rust & Docker in production](https://medium.com/coursera-engineering/rust-docker-in-production-coursera-f7841d88e6ed)
 
-- **Coursera**
+- **CancerIQ**
     * [Cancer Risk Prediction in Rust](http://engineering.canceriq.com/posts/rust/)
+
+- **Bakken & Bæck**
+    * [Success with Rust in Production](https://tech.bakkenbaeck.com/post/success-with-rust-in-production)
+
 
 
       
