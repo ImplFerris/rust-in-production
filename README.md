@@ -106,6 +106,9 @@ This is a list of companies known to use Rust in their production systems, based
 - **ThreatX**
     * [Rust Rocks! Why ThreatX Chose Rust](https://www.threatx.com/resource/rust-rocks-why-threatx-chose-rust/)
 
+- **BlueCat Networks**:
+    * [Open Heart Surgery: From Java to Rust](https://medium.techatscale.com/open-heart-surgery-from-java-to-rust-88d042ad43e7)
+
 ## Education
 
 - **Coursera**
