@@ -93,15 +93,6 @@ This is a list of companies known to use Rust in their production systems, based
 - **Toyota(Unofficial)**:
     * [Reddit comment - Work at Toyota Connected.](https://www.reddit.com/r/rust/comments/ts605e/comment/i2rsprn/)
 
-## Financial
-
-- **Hyperswitch**
-    * [An open source payments switch written in Rust](https://github.com/juspay/hyperswitch)
-
-## Entertainment
-- **Netflix**
-    * [bpftop - command-line tool created by netflix](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5)
-
 ## Network and Security
 
 - **Kentik**
@@ -113,6 +104,22 @@ This is a list of companies known to use Rust in their production systems, based
 - **BlueCat Networks**:
     * [Open Heart Surgery: From Java to Rust](https://medium.techatscale.com/open-heart-surgery-from-java-to-rust-88d042ad43e7)
 
+## AI and Data Science
+- **LogicAI**
+    * [Migrating from Python to Rust to implement a real-time recommendation engine](https://logicai.io/blog/rust-for-real-time-application-no-dependencies-allowed/)
+
+- **Datalust**
+    * [Rust at Datalust](https://blog.datalust.co/rust-at-datalust/)
+
+## Financial
+
+- **Hyperswitch**
+    * [An open source payments switch written in Rust](https://github.com/juspay/hyperswitch)
+
+## Entertainment
+- **Netflix**
+    * [bpftop - command-line tool created by netflix](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5)
+
 ## Education
 
 - **Coursera**
@@ -123,7 +130,6 @@ This is a list of companies known to use Rust in their production systems, based
     * [Embedded Rust in Production ..?](https://blog.lohr.dev/embedded-rust)
 - **Samsung SmartThings**
     * [We are making use of Rust for the backbone of our new update client and server](https://community.smartthings.com/t/hub-firmware-release-notes-17-12-17-13-17-14/83722/376)
-
 
 ## Others
       
@@ -150,6 +156,9 @@ This is a list of companies known to use Rust in their production systems, based
 
 - **OneSignal**
     * [Rust at OneSignal](https://onesignal.com/blog/rust-at-onesignal/)
+      
+- **Symless (Synergy team)**
+    * [We're choosing Rust, and not Go, C++, or Node.js](https://symless.com/synergy/news/we-are-choosing-rust-and-heres-why)
 
 - **CancerIQ**
     * [Cancer Risk Prediction in Rust](http://engineering.canceriq.com/posts/rust/)
