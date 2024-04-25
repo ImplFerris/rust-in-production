@@ -75,6 +75,9 @@ This list is not exhaustive; rather, it aims to provide evidence of Rust's adopt
 - **Cymo**:
     * [Kannika, backup & restore solution for event data](https://cymo.eu/blog/why-we-use-rust-for-our-kannika-solution)
 
+- **Red Hat**:
+  * [Nova, a Rust-Based GSP-Only Graphics Driver for NVIDIA GPUs](https://9to5linux.com/red-hat-announces-nova-a-rust-based-gsp-only-driver-for-nvidia-gpus)
+
 ## Social Media
 
 - **Twitter**
