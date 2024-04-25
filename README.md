@@ -98,6 +98,9 @@ This list is not exhaustive; rather, it aims to provide evidence of Rust's adopt
 - **Toyota(Unofficial)**:
     * [Reddit comment - Work at Toyota Connected.](https://www.reddit.com/r/rust/comments/ts605e/comment/i2rsprn/)
 
+- **NSB Software**:
+    * [Implementing Rust-based production software for a major airline](https://www.nsb-software.de/en/)
+
 ## Network and Security
 
 - **Kentik**
