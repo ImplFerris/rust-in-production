@@ -129,11 +129,26 @@ This is a list of companies known to use Rust in their production systems, based
     * [Rust & Docker in production](https://medium.com/coursera-engineering/rust-docker-in-production-coursera-f7841d88e6ed)
 
 ## Embedded
+- **Huawei**
+    * [Huawei ❤️ Rust](https://trusted-programming.github.io/)
+    * [Kuasar is officially open source on KubeCon + CloudNativeCon Europe 2023](https://kuasar.io/blog/kuasar-joint-opensource/)
+      
 - **STABL Energy**
     * [Embedded Rust in Production ..?](https://blog.lohr.dev/embedded-rust)
+      
 - **Samsung SmartThings**
     * [We are making use of Rust for the backbone of our new update client and server](https://community.smartthings.com/t/hub-firmware-release-notes-17-12-17-13-17-14/83722/376)
 
+
+### E-commerce
+
+- **Deliveroo**
+    * [Moving from Ruby to Rust](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html)
+
+- **Shopify**
+    * [Shopify Embraces Rust for Systems Programming](https://shopify.engineering/shopify-rust-systems-programming)
+      
+    
 ## Others
       
 - **Beijing University of Posts and Telecommunications**
@@ -175,4 +190,8 @@ This is a list of companies known to use Rust in their production systems, based
 - **FOSSA**
     * [Interview with Jessica Black, a senior software engineer at FOSSA](https://serokell.io/blog/rust-in-production-fossa)
 
+- **Sentry**
+    * [A locking war story](https://sentry.engineering/blog/locking-war-story)
+    * [Relay as a Lambda Extension Using the Actor Model in Rust](https://sentry.engineering/blog/relay-as-a-lambda-extension-using-the-actor-model-in-rust)
+    
 Please note that this list is not exhaustive and may not include all companies using Rust publicly.
