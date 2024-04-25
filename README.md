@@ -67,6 +67,9 @@ This is a list of companies known to use Rust in their production systems, based
 - **Fiberplane**:
     * [Why we use Rust at Fiberplane](https://fiberplane.com/blog/why-we-use-rust-at-fiberplane)
 
+- **Cymo**:
+    * [Kannika, backup & restore solution for event data](https://cymo.eu/blog/why-we-use-rust-for-our-kannika-solution)
+
 ## Social Media
 
 - **Twitter**
