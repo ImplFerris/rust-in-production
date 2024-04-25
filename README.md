@@ -1,6 +1,8 @@
 # Rust in Production - List of companies use Rust
 This is a list of companies known to use Rust in their production systems, based on public information. Note that many companies may use Rust without publicizing it, so this list provides a fair idea of Rust's adoption in various industries.
 
+### **Note:** 
+This list is not exhaustive; rather, it aims to provide evidence of Rust's adoption in production environments for those who may doubt its usage by companies.  The aim is not to index all, just whatever possible to give a fair idea.
 
 ## Technology Companies
 
@@ -194,4 +196,3 @@ This is a list of companies known to use Rust in their production systems, based
     * [A locking war story](https://sentry.engineering/blog/locking-war-story)
     * [Relay as a Lambda Extension Using the Actor Model in Rust](https://sentry.engineering/blog/relay-as-a-lambda-extension-using-the-actor-model-in-rust)
     
-Please note that this list is not exhaustive and may not include all companies using Rust publicly.
