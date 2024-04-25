@@ -32,6 +32,9 @@ This is a list of companies known to use Rust in their production systems, based
     * [Why AWS loves Rust](https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help/)
     * [Sustainability with Rust](https://aws.amazon.com/cn/blogs/opensource/sustainability-with-rust/)
 
+- **ByteDance**:
+    * [g3proxy - forward proxy component in G3 Project](https://github.com/bytedance/g3)
+
 - **Discord**: 
     * [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
 
