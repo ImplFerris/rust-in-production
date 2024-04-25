@@ -202,3 +202,8 @@ This list is not exhaustive; rather, it aims to provide evidence of Rust's adopt
     * [A locking war story](https://sentry.engineering/blog/locking-war-story)
     * [Relay as a Lambda Extension Using the Actor Model in Rust](https://sentry.engineering/blog/relay-as-a-lambda-extension-using-the-actor-model-in-rust)
     
+
+## A curated list of Rust code and resources.
+If you want to see what projects written in Rust, check this out:
+   - **[Awesome Rust](https://github.com/rust-unofficial/awesome-rust)**
+
