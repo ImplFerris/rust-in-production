@@ -111,6 +111,9 @@ This list is not exhaustive; rather, it aims to provide evidence of Rust's adopt
 
 - **BlueCat Networks**:
     * [Open Heart Surgery: From Java to Rust](https://medium.techatscale.com/open-heart-surgery-from-java-to-rust-88d042ad43e7)
+ 
+- **Datadog**:
+    * [Introducing Glommio, a Thread-per-Core Crate for Rust & Linux](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
 
 ## AI and Data Science
 - **LogicAI**
