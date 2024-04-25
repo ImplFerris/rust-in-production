@@ -5,6 +5,7 @@ This is a list of companies known to use Rust in their production systems, based
 ## Technology Companies
 
 - **Mozilla**: 
+    * [Rust in Firefox](https://wiki.mozilla.org/Oxidation)
     * [Thunderbird and Rust](https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/)
     * [Porting a cross-platform GUI application to Rust](https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/)
  
