@@ -115,6 +115,9 @@ This list is not exhaustive; rather, it aims to provide evidence of Rust's adopt
 - **Datadog**:
     * [Introducing Glommio, a Thread-per-Core Crate for Rust & Linux](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
 
+- **1Password**: 
+    * [Typeshare](https://github.com/1Password/typeshare)
+      
 ## AI and Data Science
 - **LogicAI**
     * [Migrating from Python to Rust to implement a real-time recommendation engine](https://logicai.io/blog/rust-for-real-time-application-no-dependencies-allowed/)
@@ -155,16 +158,19 @@ This list is not exhaustive; rather, it aims to provide evidence of Rust's adopt
 
 - **Shopify**
     * [Shopify Embraces Rust for Systems Programming](https://shopify.engineering/shopify-rust-systems-programming)
-      
+
+
+## Biotech
+
+- **Fulcrum Genomics**
+    * [fqgrep - Grep for FASTQ files](https://github.com/fulcrumgenomics/fqgrep)
+
     
 ## Others
       
 - **Beijing University of Posts and Telecommunications**
     * [China's Satellite Equipped with RROS](https://bupt-os.github.io/website/news/2023_12_9/satellite_launch/)
 
-- **1Password**: 
-    * [Typeshare](https://github.com/1Password/typeshare)
-      
 - **Wolfram Research, Inc**
     * [CodeParser](https://github.com/WolframResearch/codeparser)
 
