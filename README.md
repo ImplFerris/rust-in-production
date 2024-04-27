@@ -159,6 +159,10 @@ This list is not exhaustive; rather, it aims to provide evidence of Rust's adopt
 - **Shopify**
     * [Shopify Embraces Rust for Systems Programming](https://shopify.engineering/shopify-rust-systems-programming)
 
+## Productivity
+
+- **ToEverything**
+    * [OctoBase - open-source database behind AFFiNE](https://github.com/toeverything/OctoBase)
 
 ## Biotech
 
