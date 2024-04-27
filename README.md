@@ -169,6 +169,12 @@ This list is not exhaustive; rather, it aims to provide evidence of Rust's adopt
 - **Fulcrum Genomics**
     * [fqgrep - Grep for FASTQ files](https://github.com/fulcrumgenomics/fqgrep)
 
+
+## Data Analytics
+
+- **Mezmo**
+    * [Coding for performance: Why we chose Rust](https://www.mezmo.com/blog/coding-for-performance-why-we-chose-rust)
+
     
 ## Others
       
