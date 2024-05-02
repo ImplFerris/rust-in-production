@@ -4,8 +4,8 @@ This is a list of companies known to use Rust in their production systems, based
 ### **Note:** 
 This list is not exhaustive; rather, it aims to provide evidence of Rust's adoption in production environments for those who may doubt its usage by companies.  The aim is not to index all, just whatever possible to give a fair idea.
 
-#### A curated list of Rust code and resources.
-If you want to see what projects written in Rust, check this out instead:
+#### A curated list of Rust code and resources:
+If you want to see what projects written in Rust, check this out instead
    - **[Awesome Rust](https://github.com/rust-unofficial/awesome-rust)**
 
 ## Technology Companies
