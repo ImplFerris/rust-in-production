@@ -150,9 +150,9 @@ This list is not exhaustive; rather, it aims to provide evidence of Rust's adopt
 - **Samsung SmartThings**
     * [We are making use of Rust for the backbone of our new update client and server](https://community.smartthings.com/t/hub-firmware-release-notes-17-12-17-13-17-14/83722/376)
 
-- **O.S. Systems**
-    * [UpdateHub](https://updatehub.io/)
-
+- **UpdateHub**
+    * [A generic and safe Firmware Over-The-Air (FOTA) agent for Embedded and Industrial Linux-based devices](https://github.com/UpdateHub/updatehub)
+      
 ### E-commerce
 
 - **Deliveroo**
