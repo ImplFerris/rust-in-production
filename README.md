@@ -4,6 +4,10 @@ This is a list of companies known to use Rust in their production systems, based
 ### **Note:** 
 This list is not exhaustive; rather, it aims to provide evidence of Rust's adoption in production environments for those who may doubt its usage by companies.  The aim is not to index all, just whatever possible to give a fair idea.
 
+## A curated list of Rust code and resources.
+If you want to see what projects written in Rust, check this out instead:
+   - **[Awesome Rust](https://github.com/rust-unofficial/awesome-rust)**
+
 ## Technology Companies
 
 - **Mozilla**: 
@@ -220,8 +224,3 @@ This list is not exhaustive; rather, it aims to provide evidence of Rust's adopt
     * [A locking war story](https://sentry.engineering/blog/locking-war-story)
     * [Relay as a Lambda Extension Using the Actor Model in Rust](https://sentry.engineering/blog/relay-as-a-lambda-extension-using-the-actor-model-in-rust)
     
-
-## A curated list of Rust code and resources.
-If you want to see what projects written in Rust, check this out:
-   - **[Awesome Rust](https://github.com/rust-unofficial/awesome-rust)**
-
