@@ -59,9 +59,9 @@ If you want to see what projects written in Rust, check this out instead
 
 - **Vercel**:
     * [Introducing Turbopack: Rust-based successor to Webpack](https://vercel.com/blog/turbopack)
-    * [Why Turborepo is migrating from Go to Rust](https://vercel.com/blog/turborepo-migration-go-rust)
     * [RustNation - Porting Turborepo From Go To Rust](https://www.youtube.com/watch?v=RILymfTIcoo)
- 
+    * [Vercel Functions are now faster—and powered by Rust](https://vercel.com/blog/vercel-functions-are-now-faster-and-powered-by-rust)
+
 - **System76**:
     * [Pop!_OS](https://github.com/pop-os/pop)
 
