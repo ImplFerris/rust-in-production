@@ -26,6 +26,7 @@ If you want to see what projects written in Rust, check this out instead
       
 - **Microsoft**:
     * [Rust in Windows Kernel](https://www.neowin.net/news/senior-microsoft-exec-says-windows-11-kernel-will-soon-be-booting-with-rust-inside/)
+    * [Sudo, for Windows](https://github.com/microsoft/sudo)
     * [M365 Job Ad(old) for Rust dev](https://jobs.careers.microsoft.com/global/en/job/1633482/Principal-Software-Architect)
     * [(Indirect usage)VScode Search uses ripgrep](https://code.visualstudio.com/updates/v1_11#_text-search-improvements)
       
