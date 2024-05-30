@@ -138,6 +138,8 @@ If you want to see what projects written in Rust, check this out instead
 ## Entertainment
 - **Netflix**
     * [bpftop - command-line tool created by netflix](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5)
+- **Matchday**
+    * [source: "Rust for the Web LIVE — May 2024 - Mainmatter x BcnRust"](https://www.youtube.com/live/Wu0wV8fqXq4?si=vsiAmHm-2706QIc4)
 
 ## Education
 
