@@ -134,7 +134,9 @@ If you want to see what projects written in Rust, check this out instead
 
 - **Hyperswitch**
     * [An open source payments switch written in Rust](https://github.com/juspay/hyperswitch)
-
+- **CIMB Niaga**, Indonesia's 2nd largest private bank
+    * [Migration from Java to Rust](https://medium.com/cimb-niaga-engineering/delivering-superior-banking-experiences-bc7ca491eae5)
+      
 ## Entertainment
 - **Netflix**
     * [bpftop - command-line tool created by netflix](https://netflixtechblog.com/announcing-bpftop-streamlining-ebpf-performance-optimization-6a727c1ae2e5)
