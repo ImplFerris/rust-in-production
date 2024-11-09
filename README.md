@@ -161,7 +161,10 @@ If you want to see what projects written in Rust, check this out instead
 
 - **UpdateHub**
     * [A generic and safe Firmware Over-The-Air (FOTA) agent for Embedded and Industrial Linux-based devices](https://github.com/UpdateHub/updatehub)
-      
+
+- **Tweede golf**
+    * [Github Page]([https://blog.lohr.dev/embedded-rust](https://github.com/tweedegolf/))
+            
 ### E-commerce
 
 - **Deliveroo**
