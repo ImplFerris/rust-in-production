@@ -119,6 +119,7 @@ If you want to see what projects written in Rust, check this out instead
  
 - **Datadog**:
     * [Introducing Glommio, a Thread-per-Core Crate for Rust & Linux](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
+    * [Static Analyzer Engine for Datadog](https://github.com/DataDog/datadog-static-analyzer)
 
 - **1Password**: 
     * [Typeshare](https://github.com/1Password/typeshare)
