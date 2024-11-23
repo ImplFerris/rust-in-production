@@ -232,3 +232,5 @@ If you want to see what projects written in Rust, check this out instead
     * [A locking war story](https://sentry.engineering/blog/locking-war-story)
     * [Relay as a Lambda Extension Using the Actor Model in Rust](https://sentry.engineering/blog/relay-as-a-lambda-extension-using-the-actor-model-in-rust)
     
+- **Yle (the Finnish Broadcasting Company)**
+   * [improve their login performance with AWS Lambda and Rust](https://yle.fi/aihe/a/20-10008009)
