@@ -190,12 +190,15 @@ If you want to see what projects written in Rust, check this out instead
 - **Mezmo**
     * [Coding for performance: Why we chose Rust](https://www.mezmo.com/blog/coding-for-performance-why-we-chose-rust)
 
+## Space Technology and Exploration
+- **Beijing University of Posts and Telecommunications**
+    * [China's Satellite Equipped with RROS](https://bupt-os.github.io/website/news/2023_12_9/satellite_launch/)
+- **Firefly Aerospace**
+    * [Nyx Space and Rust Power Firefly's Blue Ghost Lunar Landing](https://nyxspace.com/blog/2025/02/21/nyx-space-and-rust-power-fireflys-blue-ghost-lunar-landing/)
+
     
 ## Others
       
-- **Beijing University of Posts and Telecommunications**
-    * [China's Satellite Equipped with RROS](https://bupt-os.github.io/website/news/2023_12_9/satellite_launch/)
-
 - **Wolfram Research, Inc**
     * [CodeParser](https://github.com/WolframResearch/codeparser)
 
