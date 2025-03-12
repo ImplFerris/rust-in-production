@@ -239,3 +239,6 @@ If you want to see what projects written in Rust, check this out instead
     
 - **Yle (the Finnish Broadcasting Company)**
    * [improve their login performance with AWS Lambda and Rust](https://yle.fi/aihe/a/20-10008009)
+
+- **OneSchemaa**
+   * [10 Advanced CSV Import Features You (Probably) Won’t Launch Yourself](https://www.oneschema.co/blog/advanced-csv-import-features)
