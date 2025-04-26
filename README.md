@@ -124,7 +124,11 @@ If you want to see what projects written in Rust, check this out instead
 
 - **1Password**: 
     * [Typeshare](https://github.com/1Password/typeshare)
-      
+
+- **Oso**:
+      * [Using Rust, SQLx and Rocket in Oso Cloud](https://www.osohq.com/post/rust-sqlx-rocket)
+      * [How We Built a Cross-Platform Library with Rust](https://www.osohq.com/post/cross-platform-rust-libraries)
+
 ## AI and Data Science
 - **LogicAI**
     * [Migrating from Python to Rust to implement a real-time recommendation engine](https://logicai.io/blog/rust-for-real-time-application-no-dependencies-allowed/)
