@@ -126,8 +126,8 @@ If you want to see what projects written in Rust, check this out instead
     * [Typeshare](https://github.com/1Password/typeshare)
 
 - **Oso**:
-      * [Using Rust, SQLx and Rocket in Oso Cloud](https://www.osohq.com/post/rust-sqlx-rocket)
-      * [How We Built a Cross-Platform Library with Rust](https://www.osohq.com/post/cross-platform-rust-libraries)
+    * [Using Rust, SQLx and Rocket in Oso Cloud](https://www.osohq.com/post/rust-sqlx-rocket)
+    * [How We Built a Cross-Platform Library with Rust](https://www.osohq.com/post/cross-platform-rust-libraries)
 
 ## AI and Data Science
 - **LogicAI**
