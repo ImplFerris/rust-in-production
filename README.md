@@ -132,7 +132,9 @@ If you want to see what projects written in Rust, check this out instead
 ## AI and Data Science
 - **LogicAI**
     * [Migrating from Python to Rust to implement a real-time recommendation engine](https://logicai.io/blog/rust-for-real-time-application-no-dependencies-allowed/)
-
+- **OpenAI**
+    * [Migrating Codex CLI from TypeScript to Rust](https://github.com/openai/codex/tree/main/codex-rs)
+   
 - **Datalust**
     * [Rust at Datalust](https://blog.datalust.co/rust-at-datalust/)
 
@@ -164,6 +166,10 @@ If you want to see what projects written in Rust, check this out instead
       
 - **Samsung SmartThings**
     * [We are making use of Rust for the backbone of our new update client and server](https://community.smartthings.com/t/hub-firmware-release-notes-17-12-17-13-17-14/83722/376)
+
+- **Matic Robots**
+    * [Why Rust? It's the safe choice](https://maticrobots.com/blog/why-rust-its-the-safe-choice/)
+
 
 - **UpdateHub**
     * [A generic and safe Firmware Over-The-Air (FOTA) agent for Embedded and Industrial Linux-based devices](https://github.com/UpdateHub/updatehub)
