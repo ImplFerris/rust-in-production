@@ -109,6 +109,9 @@ If you want to see what projects written in Rust, check this out instead
 
 ## Network and Security
 
+- **Proton AG**
+    * [Proton Mail rewrote their mobile tech stack with Rust](https://proton.me/blog/new-mail-apps)
+
 - **Kentik**
     * [How Rust Helps Keep Kentik’s Performance on High](https://www.kentik.com/blog/under-the-hood-how-rust-helps-keep-kentik's-performance-on-high/)
 
